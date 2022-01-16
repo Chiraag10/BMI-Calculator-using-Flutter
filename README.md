@@ -1,4 +1,4 @@
-# redmi
+# BMI Calculator
 
 A new Flutter project.
 
